@@ -4,6 +4,8 @@
 
 Incorporate Select2 JQuery into your ActiveAdmin apps.
 
+This fork as implemented changes for ActiveAdmin 1.0.0.pre - model and class structure fot filters has been changed in latest version of ActiveAdmin.
+
 ## Installation
 
 Add `activeadmin`, `jquery-rails` and `select2-rails` to your Gemfile:
